@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My Html page</title>
+    </head>
+
+    <body>Learning Html
+        <h1 title="This is a title;">Hello Learner</h1>
+        <p>A learner is a person who gains knowledge, skills, and experience through study and practice. A true learner is always curious to know new things. He or she listens carefully, asks questions, and works hard to improve understanding. A learner may face many difficulties, but patience and determination help to overcome them. Learning is a lifelong process, and a learner always tries to use knowledge in real life. In this way, a learner becomes successful and contributes to society.</p><br>
+
+        <img src="rakib.jpg" width="300" height="200">
+    </body>
+</html>
