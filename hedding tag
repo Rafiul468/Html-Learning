@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My file</title>
+        <body>
+            <h1>Learning HTML</h1>
+            <h2>Learning HTM</h2>
+            <h3>Learning HTM</h3>
+            <h4>Learning HTM</h4>
+            <h5 style="font-size: 30px;">learnig html</h5>
+            <h6 style="font-size: 25px;">Learning HTM</h6>
+        </body>
+    </head>
+</html>
