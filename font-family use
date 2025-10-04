@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> HTml </title>
+        <body>
+            <h1 title="this is a title">Hi</h1>
+            <p style="font-family: 'Courier New', Courier, monospace;">
+Knowledge is like a vast ocean, endless and deep, and every human being is a traveler sailing across its waves. From the moment we are born, we begin to learn, first from our parents, then from teachers, friends, books, and the world around us. Education is not limited to classrooms; it surrounds us everywhere—in nature, in experiences, in success, and even in failure. A child learns to walk by falling many times, yet never gives up, and that spirit of trying again and again is the first lesson of life. As we grow older, our curiosity leads us to explore new things, to ask questions, and to seek answers. Some answers are found easily, while others require patience, effort, and determination. Knowledge gives us power, but it also gives us humility, because the more we learn, the more we realize how much we still do not know. True wisdom lies not only in knowing facts but in applying them for the betterment of ourselves and society. A doctor uses knowledge to save lives, a teacher uses knowledge to shape young minds, and an engineer uses knowledge to build bridges, machines, and technology that make life easier.</p>
+            <pre style="font-family: 'Courier New', Courier, monospace;">
+
+                Whispers of the Sky ✨
+
+Beneath the stars so high and bright,
+Dreams take wings in the silent night.
+The moonlight sings a gentle song,
+Guiding lost hearts to where they belong.
+
+Through every storm, the hope will stay,
+A shining flame to light the way.
+For even shadows fade with dawn,
+And every night makes morning born. 🌅
+            </pre>
+        </body>
+    </head>
+</html>
