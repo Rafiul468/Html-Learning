@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> HTml </title>
+        <body>
+            <h1>Hi</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, eius! Veniam velit ipsam voluptatibus quas exercitationem nemo asperiores laboriosam nihil iusto ad. Sunt molestiae est vero doloremque itaque nostrum velit!</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, voluptas doloribus? Vel quasi placeat quod voluptates omnis, magni explicabo sit.</p>
+            <hr>
+            <!-- <hr>
+            this is horezontal ling -->
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis labore commodi quasi pariatur modi placeat minima officiis, magnam voluptatum minus nostrum! Nam doloremque iste obcaecati eos deserunt itaque expedita fuga facilis accusamus eaque eum mollitia assumenda quos iusto pariatur, reprehenderit quibusdam dolorum dolorem reiciendis consequatur voluptatibus omnis alias. Libero odio esse tempore facere pariatur deserunt, delectus saepe eveniet nulla facilis ipsa, sunt quas dolores? Eum necessitatibus illum asperiores quo accusamus, libero earum, sapiente modi veritatis eos vero dolores consequatur. Accusantium, corrupti dignissimos accusamus nesciunt, quos expedita itaque, eaque impedit optio tempora cupiditate debitis similique doloremque temporibus! Dignissimos cum sit velit quos ullam aliquid aperiam quia in, obcaecati saepe placeat omnis et iste porro voluptates harum nam neque excepturi. Voluptatibus tempore deleniti praesentium consequuntur quis nam. Esse porro et molestias deleniti magni nobis, atque voluptates necessitatibus cupiditate, at aliquam. Minus enim similique fuga, sed cum eaque. Exercitationem, repudiandae. Est, quaerat inventore?</p>
+  
+        </body>
+    </head>
+</html>
