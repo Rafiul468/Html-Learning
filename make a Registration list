@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1 style="text-align: center; background-color: bisque;">STUDENT REGISTRATION<br>
+            Personal Information
+        </h1>
+        <hr> <br>
+        <lable>Name:</lable>
+        <input type="text" placeholder="Your Name"> <br>
+
+                <lable>Father's Name:</lable>
+        <input type="text" placeholder="Father's Name"> <br>
+
+                <lable>Mother's Name:</lable>
+        <input type="text" placeholder="Mother's Name"> <br>
+
+                <lable>Guardian Mobile Number:</lable>
+        <input type="Number" placeholder="Guardian Name"> <br>
+
+                <lable>Dath of Birth:</lable>
+        <input type="date" placeholder="Your Birthday date"> <br> <br>
+
+      <h2 style="text-align: left;">Academic Information</h2><hr>  
+
+                      <lable>Roll Number:</lable>
+        <input type=" Number" placeholder="Your Roll Number"> <br> 
+
+                        <lable>Registration Number:</lable>
+        <input type="Number" placeholder="Registration"> <br> 
+
+                        <lable>Group:</lable>
+        <select>
+            <option>Select Group </option>
+            <option>Group A</option>
+            <option>Group B</option>
+        </select><br>
+        <h2 style="text-alaign: left;">
+            Contact Information <hr>
+
+                            <lable>E-mail:</lable>
+        <input type="emil"> <br> 
+
+                        <lable>Photo:</lable>
+        <input type="file"> <br> 
+        </h2>
+        <h2 style="text-align: left;">Address
+            <hr>
+
+                            <lable>Present Address: 
+                                            </lable>
+        <input type="text"> <br> 
+
+                        <lable>Permenant Address:</lable>
+        <input type="text"> <br> 
+
+    
+
+        <input value="Register"><br>
+        <input type="checkbox">
+        <lable>KPI</lable>
+        </h2>
+    </body>
+</html>
