@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <title>html</title>
+        <body>
+            <h1>learn html</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, distinctio dolore maxime pariatur sequi impedit hic incidunt delectus unde? Optio ad illo voluptate!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, ducimus odit aliquid ab provident dolorum delectus consequatur qui, sed culpa facilis deleniti voluptas quia!</p>
+
+            <p> Lorem ipsum dolor <small>ipsum dolor sit</small><del>Iste, distinctio</del><u>dolore maxime</u><b>dolore maxime pariatur sequi </b><mark>culpa facilis deleniti voluptas</mark></p>
+            <p>(a+b)<sup>2</sup> = a<sup>2</sup>+2ab+b<sup>2</sup></p>
+            <p>log<sub>10</sub>(10)=1</p>
+
+
+        </body>
+    </head>
+</html>
