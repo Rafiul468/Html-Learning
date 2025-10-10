@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Html</title>
+        <body>
+            <center>
+                <h1>Hello Html</h1>
+            </center>
+            <p>Famine is one of the most terrible disasters that can strike mankind. It means a severe shortage of food that causes widespread hunger and death among people. Famine does not come suddenly; it is the result of various natural and man-made causes. When there is too much rain or no rain at all, crops fail and food production decreases. Floods, droughts, cyclones, and pests often destroy agricultural lands. In some cases, political unrest, war, and corruption in the distribution of food also lead to famine. During famine, the prices of food items rise so high that poor people cannot buy food. They become weak and sick, and many die of starvation.</p>
+
+            <blockquote>
+                Success is not final; failure is not fatal: It is the courage to continue that counts.
+                 -—Winston Churchill
+            </blockquote>
+            <q>
+                It is better to fail in originality than to succeed in imitation.-—Herman Melville
+
+            </q>
+            <p><abbr title="Hyper Text Markup Language">HTML</abbr> is not a programming language</p>
+
+            <address>
+               Gaibandha,
+               Rangpur,
+               Bangladesh.
+            </address>
+             <p>
+                   <cite> The Mona Lisa</cite> is a half-length portrait painting by the Italian artist Leonardo da vinci.
+                </p>
+                <p>
+                    <bdo dir="rtl">Html</bdo>
+                </p>
+        </body>
+    </head>
+</html>
