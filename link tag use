@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script>
+            alert('Do you like the video');
+        </script>
+        <body>
+
+            <a href="https://www.facebook.com/profile.php?id=61553872921479" target="_blank"><img src="download_img.jpg" width="120" height="150"></a>
+            <a href="mailto:rafiulrafi468@gmail.com">rafiulrafi468@gmail.com</a>
+            <p>Organized collective action challenging the status quo—a social movement— requires leadership that goes far beyond a stereotypical charismatic public persona with whom it is often identified. Unable to rely on established bureaucratic structures for coordination, evaluation, and action, such action depends on voluntary participation, shared commitments, and ongoing motivation. Movements must mobilize under risky conditions not only because well-resourced oppositions often resist their efforts, but also because the undertaking itself is fraught with uncertainty about how—and whether—it can happen in the first place.</p>
+        </body>
+    </head>
+</html>
