@@ -1,0 +1,62 @@
+<!Doctype html>
+<html lang="en";
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 7 </title>
+</head>
+<body>
+    <h1 style="text-align: center;">Table clospan<br>
+        Class Routine
+    </h1>
+    <table border="1">
+        <th>Days / Time
+        </th>
+        <th>8.00-8.45</th>
+        <th>8:45-9:30</th>
+        <th>9:30-10:15</th>
+        <th>10:15-11:00</th>
+        <th>11:00-11:45</th>
+        <th>11:45-12:30</th>
+        <th>12:30-1:15</th>
+    
+            <tr>
+            
+                <td>Sunday</td>
+                <td>Web-Development</td>
+                <td style="text-align:center" colspan="3">Java Programming</td>
+                <td style="text-align: center;" colspan="2">Computer P.I</td>
+                <td>-</td>
+               
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>Data S.A</td>
+                <td>Business c</td>
+                <td>Digital Ent-2</td>
+                <td>Environmental Stadis</td>
+                <td style="text-align: center;" colspan="3">Web Development</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td style="text-align: center;" colspan="3">Digital Ent-2</td>
+                <td style="text-align: center;" colspan="2">Environmental Stadis</td>
+                <td>Java</td>
+                <td>Data S.A</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>Java</td>
+                <td style="text-align: center;" colspan="3">Computer P.I</td>
+                <td>Environmental Stadis</td>
+                <td>Business C</td>
+                <td>Digital Ent-2</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>Computer P.I</td>
+                <td style="text-align: center;" colspan="3">Web Development</td>
+                <td style="text-align: center;" colspan="3">Data S.A</td>
+            </tr>
+    </table>
+</body>
