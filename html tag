@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+    </head>
+    <body style="background-color: rgb(167, 172, 235);">
+        <h1 style="text-align: center;">Used link</h1>
+        <h2 style="text-align: center;">used my fb page link from html</h2>
+        <h1> <a href="about.html"> About</a></h1>
+        <a href="https://www.youtube.com/watch?v=tN6oJu2DqCM&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM">Back End Developer</a>
+        
+        <h2 style="text-align: center; color: brown; text-decoration: underline;">Back End Developer</h2>
+        <p>A backend developer builds and maintains the server-side technology that powers web applications and websites. Their work, though unseen by users, is critical for functionality, handling data storage, security, and performance. They write the logic that allows the frontend to communicate with databases and execute business functions seamlessly.</p>
+
+        <h1><a href="Contuct.html">Contuct Us</a></h1>
+        <p><h2 style="text-align: center; color: brown; text-decoration: underline;">Through freelancing platforms</h2>
+Upwork: Find a wide range of freelance developers, including those specializing in back-end technologies, and connect with them directly. 
+Fiverr: Browse services and contact individual developers offering back-end development expertise. 
+Toptal: Access a network of pre-vetted, high-quality freelance talent, as seen with profiles like Adam, a back-end developer with a focus on Go and DevOps. 
+Through development agencies and services
+Zedrox: Hire a back-end software developer from their team to work on your project. 
+Innowise: Connect with their team for back-end development services, including CRM and custom CMS development. 
+WorldTeams: Contact them for their back-end developer services, which focus on creating secure and scalable systems. 
+Riseup Labs: Contact them directly through their job listing for back-end developer positions. 
+</p>
+
+    </body>
+</html>
+
+//about.html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About Page</title>
+
+    </head>
+    <body>
+        Hello, Programmer! wellcome to about page.
+    </body>
+
+  //contact 
+  <h1>Hello Programmer, Wellcome to my Contuct page.
+    you can contuct me on my fb page.  
+</h1>
+  
