@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        Html
+    </title>
+    <head>
+        <title>html practis</title>
+    </head>
+    <body>
+        <h3>Used alt of Html</h3>
+        <img src="" alt="What this img jpg">
+
+
+        <!-- google surch gif -->
+
+        <img src="giphy (1).gif" alt="gift img for you">
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet eos laborum dignissimos alias tempora eaque est eligendi. Eaque sunt consequuntur a ea consequatur autem eligendi nam officia reprehenderit nihil minus ab reiciendis ad sit, voluptatem voluptas sed in blanditiis! Quas, dolor!</p>
+    </body>
+</html>
