@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Html Table</title>
+    </head>
+    <body>
+        <table border="">
+             
+      
+        <tr>
+            <th>Serial</th>
+            <th>Language</th>
+            <th>Fun</th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>Html</td>
+            <td>Yes</th>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>Css</td>
+            <td>Yes</th>
+        </tr>
+                <tr>
+            <td>03</td>
+            <td>Jk</td>
+            <td>Yes</th>
+        </tr>
+          </table>
+
+    </body>
+</html>
