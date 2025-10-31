@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Html List</title>
+
+    </head>
+    <body>
+        <!-- ul= un order list 
+                tag=square,disc,circle.
+         -->
+
+
+         <!-- ol= oder list
+         tag=a,A,I,i 
+         -->
+         <!-- li= list iteam -->
+        <ul style="list-style-type: square;">
+            <li>Html</li>
+             <li>css</li>
+              <li>js</li>
+        </ul>
+
+        <ol type="A">
+            <li>Html</li>
+             <li>css</li>
+              <li>js</li>
+        </ol>
+
+    </body>
