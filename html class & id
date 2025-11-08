@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>learning</title>
+        <link rel="stylesheet" href="class&id.css">
+    </head>
+    <body>
+        <div>
+            <h3> this is a title</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi reprehenderit exercitationem quae quasi aspernatur laudantium tempora vero quia nesciunt totam!</p>
+
+            <a href="#">Read more</a>
+        </div>
+
+        <!-- use class=> . use css -->
+
+
+                <div class="one">
+            <h3> this is a title</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi reprehenderit exercitationem quae quasi aspernatur laudantium tempora vero quia nesciunt totam!</p>
+
+            <a href="#">Read more</a>
+        </div>
+
+        <!-- use id=> # use css -->
+
+
+        
+                <div id="three">
+            <h3> this is a title</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi reprehenderit exercitationem quae quasi aspernatur laudantium tempora vero quia nesciunt totam!</p>
+
+            <a href="#">Read more</a>
+        </div>
+    </body>
+</html>
