@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>learning</title>
+        <link rel="stylesheet" href="class&id.css">
+    </head>
+    <body>
+
+        <!-- একটি ওয়েব সাইটের ভিতর অন্য একটি ওয়েব সাইট দেখানোর জন্য iframes use করা হয় -->
+
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3592.0314746789804!2d89.63237447518458!3d25.802535677326343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2c927d9521f4d%3A0x2b0a9ba2c39ea8bf!2sKurigram%20Polytechnic%20Institute!5e0!3m2!1sen!2sbd!4v1762883989459!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://phitron.io/" frameborder="10" width="350" height="600">
+
+            <!-- vimeo video -->
+
+        </iframe>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1123058040?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="John Lewis - Tableau"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        
+        
+    </body>
+</html>
