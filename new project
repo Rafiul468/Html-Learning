@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1 class="logo">facebook</h1>
+
+    <p style="text-align:center" class="warning">
+        If you share your <br>
+        account password with <br>
+        someone else <br>
+        Your account will be <br>
+        Joy Bangla😆
+    </p>
+
+    <div class="login-box">
+        
+        <input type="text" placeholder="Enter email address or phone number">
+        <input type="password" placeholder="Password">
+
+        <button class="submit-btn">Submit</button>
+   
+
+        <a href="https://github.com/Rafiul468/Html-Learning" class="forgot">Forgotten password?</a>
+        
+</a>
+
+        <hr>
+
+        <button class="create-btn">Create a new account</button>
+
+    </div>
+
+    <p class="create-page">
+        <b>Create a Page</b> for a celebrity, brand or business.
+    </p>
+
+    <p class="copyright">
+        Facebook © 2026
+        Website made by <a href="https://www.linkedin.com/feed/">Md. Rafiul Islam Rakib</a>
+
+</div>
+
+</body>
+</html>
